@@ -3,5 +3,5 @@
 ### Theme: Garden Keeper
 Developers:
 -
-- Oleksii Pantiukhov "1osha";
+- Oleksii Pantiukhov "1osza";
 - Kyrylo Pliasun "Kraiker".
